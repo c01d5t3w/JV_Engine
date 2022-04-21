@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "wayou.vscode-todo-highlight",
+        "slevesque.shader",
+        "jeff-hykin.better-cpp-syntax",
+        "dracula-theme.theme-dracula"
+    ]
+} 
